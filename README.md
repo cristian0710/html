@@ -1,1 +1,2 @@
-# Ejercicios de prueba con git y git-hub
+# Primer-Proyecto-html
+Curso de introductorio a html de Universidad de Antioquia
